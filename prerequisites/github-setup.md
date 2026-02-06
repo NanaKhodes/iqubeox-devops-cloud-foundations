@@ -29,6 +29,4 @@
 
 
 
-This document records how the GitHub account and repository were created and structured for the iQube.ox DevOps & Cloud Foundations project.
-
 
