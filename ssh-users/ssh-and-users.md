@@ -1,6 +1,6 @@
 # SSH Key Setup and User Management
 
-I created an SSH key pair (`ed25519`) on my local machine using `ssh-keygen`. I then copied the public key to the server with:
+-I created an SSH key pair (`ed25519`) on my local machine using `ssh-keygen`. I then copied the public key to the server with:
 
 ```bash
 ssh-copy-id devops@172.20.87.236
